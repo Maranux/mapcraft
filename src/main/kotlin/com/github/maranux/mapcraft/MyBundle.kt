@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.maranux.mapcraft
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
